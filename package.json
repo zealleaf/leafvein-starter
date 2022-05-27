@@ -1,9 +1,9 @@
 {
   "name": "leafvein-starter",
   "version": "1.0.0",
-  "description": "a simple cli",
+  "description": "a simple starter",
   "bin": {
-    "leaf": "./cli.mjs"
+    "lvs": "./starter.mjs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +18,7 @@
     "vite",
     "react"
   ],
-  "author": "",
+  "author": "zealleaf",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zealleaf/leafvein-starter/issues"

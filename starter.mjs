@@ -106,6 +106,6 @@ if (!create && !version && !help) {
     chalk.yellowBright(`
 unknown command!!!`)
   );
-  console.log(chalk.blueBright("Type leaf --help to see more commands!"));
+  console.log(chalk.blueBright("Type lvs --help to see more commands!"));
   process.exit(1);
 }

@@ -1,3 +1,3 @@
 # leafvein-starter
 
-a simple cli
+a simple starter
