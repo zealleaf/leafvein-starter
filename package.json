@@ -1,0 +1,33 @@
+{
+  "name": "leafvein-starter",
+  "version": "1.0.0",
+  "description": "a simple cli",
+  "bin": {
+    "leaf": "./cli.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zealleaf/leafvein-starter.git"
+  },
+  "keywords": [
+    "zx",
+    "cli",
+    "vite",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zealleaf/leafvein-starter/issues"
+  },
+  "homepage": "https://github.com/zealleaf/leafvein-starter#readme",
+  "dependencies": {
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.4",
+    "ora": "^6.1.0",
+    "zx": "^6.1.0"
+  }
+}
